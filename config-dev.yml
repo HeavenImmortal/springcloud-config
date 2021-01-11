@@ -1,2 +1,2 @@
 config:
-  info: "这是配置中心上的配置信息"
+  info: "this message is in config server"
